@@ -17,7 +17,7 @@ def remove_dir(path: str) -> None:
 
 
 if __name__ == '__main__':
-
+    #change
     # if '{{ cookiecutter.UnitTesting }}' != 'y':
     #     print("=========================")
     #     remove_dir('project/src/test')
